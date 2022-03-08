@@ -1,3 +1,3 @@
 # Day_5_Task
-anonymous function & IIFE
+anonymous function & IIFE ;
 Arrow function
